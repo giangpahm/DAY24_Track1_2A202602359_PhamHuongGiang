@@ -1,4 +1,4 @@
-# Lab 24 — CS9 Workshop: AI Economics / ROI / Pricing (bài nhóm)
+# Lab 24 — CS9 Workshop: AI Economics / ROI / Pricing
 
 Bài nhóm của buổi Day 24, Track 1 — AI Product Management. Câu hỏi cả buổi: **sản phẩm AI này có lãi không, bán giá bao nhiêu và có đáng bỏ tiền làm không?**
 
@@ -14,9 +14,9 @@ Bài nhóm của buổi Day 24, Track 1 — AI Product Management. Câu hỏi c�
 
 Các thành viên ngồi chung bàn nhưng không có dự án chung. Theo runbook, trường hợp này phải chọn 1 trong 3 đề bài giả định (`CS9\_DeBai\_GiaDinh.pdf`) và dùng xuyên suốt buổi. Nhóm chọn:
 
-> \*\*Đề bài 1 — SổSạch:\*\* trợ lý AI đọc hoá đơn đầu vào cho văn phòng kế toán dịch vụ.
-> \*\*1 việc\*\* = 1 hoá đơn đầu vào được đọc, đối chiếu mã số thuế và nhập vào phần mềm kế toán.
-> \*\*Khách trả tiền:\*\* văn phòng kế toán dịch vụ. \*\*Điểm cần chú ý:\*\* chi phí người kiểm tra lớn; văn phòng lớn thấy đắt.
+> **Đề bài 1 — SổSạch:** trợ lý AI đọc hoá đơn đầu vào cho văn phòng kế toán dịch vụ.
+> **1 việc** = 1 hoá đơn đầu vào được đọc, đối chiếu mã số thuế và nhập vào phần mềm kế toán.
+> **Khách trả tiền:** văn phòng kế toán dịch vụ. **Điểm cần chú ý:** chi phí người kiểm tra lớn; văn phòng lớn thấy đắt.
 
 Mọi số ở sheet 1–3 lấy đúng từ đề. Cột "Nguồn / lý do" ghi rõ "Đề bài 1, Trang X". Giá token và tỷ giá là dữ liệu bài tập (trang 9 của file), không phải báo giá nhóm tự kiểm chứng.
 
@@ -73,11 +73,4 @@ Kịch bản cơ sở có lãi nhưng kịch bản xấu hết tiền ở tháng
 1. **Kết luận:** "Nhóm đề xuất Thử nghiệm nhỏ, với giá 1.990.000 đ/tháng gồm 1.000 hoá đơn, vượt 2.200 đ/hoá đơn, vì cơ sở có lãi (NPV +935 triệu) nhưng kịch bản xấu hết tiền ở tháng 7."
 2. **Bằng chứng:** bảng Kết quả chính ở trên (sheet 1 dòng 24, sheet 4, sheet 5 dòng 44–48).
 3. **Rủi ro:** biến nguy hiểm nhất, phụ thuộc văn phòng lớn, luật xử lý (sheet 5 dòng 66, 68, 72–77; sheet 7 câu 3–5).
-
-## Còn cần nhóm làm
-
-* \[ ] Cả nhóm soát lại sheet 7, nhất là ngưỡng rời bỏ 4,8% và quy mô thử 12 văn phòng (đây là lựa chọn, không phải số của đề)
-* \[ ] Nộp `DAY24\_Track1\_2A202602359\_PhamHuongGiang.xlsx` trên VLearn trước 12:00 và mở lại tệp đã nộp để xác nhận đúng bản
-* \[ ] Làm 3 slide và tập nói dưới 3 phút
-* \[ ] Chuẩn bị 2 câu hỏi có con số để phản biện nhóm kế tiếp
 
